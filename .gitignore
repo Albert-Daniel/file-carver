@@ -1,4 +1,5 @@
 # Executables
 *.out
 *.o
-recover
+jpeg_carver
+main
